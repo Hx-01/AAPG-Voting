@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "458704186842",
+    "firebase_url": "https://aapg-voting-flutter.firebaseio.com",
+    "project_id": "aapg-voting-flutter",
+    "storage_bucket": "aapg-voting-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458704186842:android:033f82e81a50a74b7224e3",
+        "android_client_info": {
+          "package_name": "aapg.aapgsc.aapg_voting2_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458704186842-eti22ip5nhfesdr2gk3a62f9i17e2crp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMgAxQqQxlHvlSEcLQQCi8vl-IfhNgPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458704186842-eti22ip5nhfesdr2gk3a62f9i17e2crp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458704186842-9rop32afjmtpv4ls7vgkercts0iqm3j7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aapgVotingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458704186842:android:5acc1f376c0b8be07224e3",
+        "android_client_info": {
+          "package_name": "aapg.aapgsc.aapg_voting_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458704186842-eti22ip5nhfesdr2gk3a62f9i17e2crp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMgAxQqQxlHvlSEcLQQCi8vl-IfhNgPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458704186842-eti22ip5nhfesdr2gk3a62f9i17e2crp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458704186842-9rop32afjmtpv4ls7vgkercts0iqm3j7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aapgVotingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458704186842:android:1f428ce8448b758f7224e3",
+        "android_client_info": {
+          "package_name": "aapg.aapgsc.aapg_voting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458704186842-eti22ip5nhfesdr2gk3a62f9i17e2crp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMgAxQqQxlHvlSEcLQQCi8vl-IfhNgPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458704186842-eti22ip5nhfesdr2gk3a62f9i17e2crp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458704186842-9rop32afjmtpv4ls7vgkercts0iqm3j7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aapgVotingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458704186842:android:23c4d398461e7bf07224e3",
+        "android_client_info": {
+          "package_name": "com.example.aapg_voting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458704186842-eti22ip5nhfesdr2gk3a62f9i17e2crp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMgAxQqQxlHvlSEcLQQCi8vl-IfhNgPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458704186842-eti22ip5nhfesdr2gk3a62f9i17e2crp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458704186842-9rop32afjmtpv4ls7vgkercts0iqm3j7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aapgVotingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
